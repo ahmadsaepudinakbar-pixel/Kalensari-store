@@ -1,0 +1,6 @@
+{
+  "name": "Kalensari Store",
+  "description": "Aplikasi Toko Online Kalensari Store untuk warga Desa Kalensari, belanja makanan & minuman UMKM lokal langsung via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
